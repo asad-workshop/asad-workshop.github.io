@@ -15,8 +15,7 @@ header{
 }
 header>div,nav>ul>li{
 	display: inline-block;
-	/*float: left;*/
-	float:center;
+	float: left;
 }
 /*#logo{
 	width: 20%;
@@ -36,7 +35,6 @@ nav{
 	width: 80%;
 	height: 5em;
 	/*float: right;*/
-	float: center;
 }
 nav>ul{
 	overflow: hidden;
