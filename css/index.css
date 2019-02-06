@@ -34,7 +34,7 @@ header>div,nav>ul>li{
 nav{
 	width: 80%;
 	height: 5em;
-	float: right;
+	/*float: right;*/
 }
 nav>ul{
 	overflow: hidden;
