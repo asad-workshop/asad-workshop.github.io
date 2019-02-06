@@ -15,7 +15,8 @@ header{
 }
 header>div,nav>ul>li{
 	display: inline-block;
-	float: left;
+	/*float: left;*/
+	float:center;
 }
 /*#logo{
 	width: 20%;
@@ -34,7 +35,7 @@ header>div,nav>ul>li{
 nav{
 	width: 80%;
 	height: 5em;
-	//float: right;
+	/*float: right;*/
 	float: center;
 }
 nav>ul{
