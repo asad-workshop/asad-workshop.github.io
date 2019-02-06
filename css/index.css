@@ -51,6 +51,7 @@ nav>ul>li>a{
 	font-weight:400;
 	color: #2A8AD8;
 	border: none;
+	text-align: center;
 }
 nav>ul>li>a:hover{
 	color: #000;
