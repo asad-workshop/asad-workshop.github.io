@@ -37,7 +37,8 @@ nav{
 	/*float: right;*/
 }
 nav>ul{
-	overflow: hidden;
+	/*overflow: hidden;*/
+	overflow: auto;
 }
 nav>ul>li{
 	line-height: 5em;
