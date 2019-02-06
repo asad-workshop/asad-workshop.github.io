@@ -33,7 +33,8 @@ header>div,nav>ul>li{
 }*/
 nav{
 	width: 80%;
-	height: 5em;
+	/*height: 5em;*/
+	height: 4em;
 	/*float: right;*/
 }
 nav>ul{
