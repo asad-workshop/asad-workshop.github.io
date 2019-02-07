@@ -1,6 +1,6 @@
 .header-wrap{
 	width: 100%;
-	padding: 0.2em 0;
+	padding: 0em 0;
 	position: fixed;
 	background: hsla(240,17%,99%,0.97);
     	/*border-bottom: 0.0625em solid #fff;*/
@@ -11,7 +11,7 @@ header{
 	position: relative;
 	/*position: absolute;*/
 	width:80%;
-	margin: 0 auto;
+	/*margin: 0 auto;*/
 	overflow: hidden;
 }
 header>div,nav>ul>li{
@@ -24,7 +24,7 @@ header>div,nav>ul>li{
 	display: inline-block;
 } 
 
-#logo{
+/*#logo{
 	width: 20%;
 }
 #logo img{
@@ -37,7 +37,7 @@ header>div,nav>ul>li{
     text-align: center;
     float: left;
     border-bottom: none;
-}
+}*/
 nav{
 	width: 80%;
 	height: 5em;
