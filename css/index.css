@@ -68,7 +68,7 @@ nav>ul>li>a:hover{
 .title {
     margin: 0;
     /*padding: 7em 0 3.0625em;*/
-    padding: 5em 0 0;
+    padding: 7em 0 3;
     /*box-shadow: 0 0.375em #262C35;*/
     position: relative;
     /*background: #2A8AD8;*/
@@ -129,7 +129,7 @@ nav>ul>li>a:hover{
 
 .main section{
 	/*padding-top:70px;*/
-	padding-top:30px;
+	padding-top:50px;
 	/*font-family: "微软雅黑";*/
 	font-family: "Times New Roman";
 }
