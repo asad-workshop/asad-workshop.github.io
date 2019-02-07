@@ -77,7 +77,6 @@ nav>ul>li>a:hover{
     background: linear-gradient(to bottom, #2b5cd6 0%,#2A8AD8 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2b5cd6',endColorstr='#2A8AD8',GradientType=0 );*/
 }
-/*
 .title:before {
     border-color: transparent;
     border-top-color: #2b5cd6;
@@ -102,7 +101,6 @@ nav>ul>li>a:hover{
     margin-left: -2em;
     margin-top: -0.0625em;
 }
-*/
 .title.intro h1, .title.intro p,.title.intro h2 {
 	width: 80%;
     margin: 1.25em auto 0;
