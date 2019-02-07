@@ -11,7 +11,7 @@ header{
 	position: relative;
 	/*position: absolute;*/
 	width:80%;
-	/*margin: 0 auto;*/
+	margin: 0 auto;
 	overflow: hidden;
 }
 header>div,nav>ul>li{
