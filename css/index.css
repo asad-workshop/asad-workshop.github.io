@@ -17,6 +17,8 @@ header>div,nav>ul>li{
 	display: inline-block;
 	float: left;
 }
+.img-tip {  
+	position: absolute;  bottom: 0;  background: #333;  color: #fff;  opacity: 0.6;  display: none;}
 #logo{
 	width: 20%;
 }
