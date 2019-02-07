@@ -1,6 +1,6 @@
 .header-wrap{
 	width: 100%;
-	/*padding: 0.2em 0;*/
+	padding: 0.2em 0;
 	position: fixed;
 	background: hsla(240,17%,99%,0.97);
    	border-bottom: 0.0625em solid #fff;
@@ -33,9 +33,9 @@ header>div,nav>ul>li{
 }*/
 nav{
 	width: 80%;
-	/*height: 5em;*/
+	height: 5em;
 	/*height: 40%;*/
-	/*float: right;*/
+	float: right;
 }
 nav>ul{
 	overflow: hidden;
