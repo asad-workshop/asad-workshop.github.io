@@ -3,9 +3,9 @@
 	<head>
 		<meta charset="utf-8" />
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-		<title>ASAD</title>
-		<meta name="description" content="Architectures and Systems for Autonomous Devices">
-		<!--<link rel="shortcut icon" href="https://hcsda-workshop.github.io/favicon.ico" type="image/x-icon" />-->
+		<title>HC-SDA</title>
+		<meta name="description" content="Heterogeneous Computation in Specific Domain Accelerations">
+		<link rel="shortcut icon" href="https://hcsda-workshop.github.io/favicon.ico" type="image/x-icon" />
 		<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
 		<link href="css/common.css" rel="stylesheet" type="text/css" />
 		<link href="css/index.css" rel="stylesheet" type="text/css" />
@@ -13,8 +13,7 @@
 	<body>
 		<div class="header-wrap  full">
 			<header class="wrapper">
-			<img src="img/dc1.jpg" height="200" width="1600" alt="dc" />
-			<!--	<div id="logo">
+				<div id="logo">
 					<a href="index.html">
 						<img src="img/logo.png" alt="HC-SDA">
 					</a>
@@ -22,70 +21,63 @@
 						<img src="img/logo2.jpg" alt="HC-SDA">
 					</a>
 				</div>
-				-->
 			    <nav class="triggered">
 					<ul>
-						<!--<li><a href="#home">Home</a></li>-->
-						<li><a href="#overview">Overview</a></li>
 						<li><a href="#callForPaper">Call for Papers</a></li>
-						<li><a href="#submitGuide">Submission</a></li>
+						<li><a href="#submitGuide">Guidelines</a></li>
 						<li><a href="#committee">Committee</a></li>						
 						<li><a href="#travelReg">Registration</a></li>																			
-						<!--<li><a href="#contact">Contact</a></li>-->
+						<li><a href="#contact">Contact</a></li>
 					</ul>					
 				</nav>								
+				
+				
+				
 			</header>
 		</div>
 		<div class="main clearfix">
 			<div class="title intro clearfix">
-				<!--<h1></h1>
-				<h1></h1>
-				<h1></h1>
-				<h1></h1>
-				<h1></h1>
-				<h1></h1>
-				<h1></h1>-->
-				<!--<h1>The First International Workshop on</h1>
-				<h1 style="font-size: 1.615em;"> </h1>
+				<h1>The First International Workshop on</h1>
+				<h1 style="font-size: 1.615em;"> Heterogeneous Computation in Specific Domain Accelerations (HC-SDA 2019)</h1>
 				<p>February 16th, 2019 Washington D.C., USA</p>
+
 				<p><span>Website：</span><a href='https://hcsda-workshop.github.io'>https://hcsda-workshop.github.io</a></p>
 
+				
 				<h2>
 					<a href='http://hpca2019.seas.gwu.edu/index.html' target='_blank' style='color: #fff;border-bottom: none;'>In conjunction with 25<sup>th</sup> IEEE International Symposium on High-Performance Computer Architecture</a> 
-				</h2>-->
-	
-			<section id="overview" class="overview">
-				<div class="container">
-					<div class="row col-lg-12 col-md-12 col-sm-12 col-xs-12">
-						
-						<h2 class="">Overview</h2>
-						<p text-align: justify;>
-							Powered by advanced sensing and Artificial Intelligence (AI) technology, autonomous devices are widely utilized and deployed across various Internet of Things (IoT) applications. 
-							Autonomous devices can be aware of their environment, their state, and incoming data and have the ability to learn and make decisions on their own instead of simply doing complete 
-							tasks as they do in the past. Autonomous vehicles, smart robots and drones are representative examples, which can almost achieve human-level performance in highly complex environment 
-							and proactively interact with the world.  Undoubtedly, intelligence and autonomy opens the door to more efficiency and automation but also raises questions of performance, privacy and 
-							reliability. Billions of devices and trillions of sensors were not simply managed through human manipulation or the stimulus-response commands as the past. How to effectively and 
-							efficiently design and develop new architecture and system for autonomous devices to serve IoT and autonomy application remains a demanding challenge
-						</p>
-					</div>
-				</div>
-			</section>
-			
+				</h2>
+			</div>
 			<section id="callForPaper" class="callforpaper">
 				<div class="container">
 					<div class="row col-lg-12 col-md-12 col-sm-12 col-xs-12">
 						
 						<h2 class="">Call for Papers</h2>
+						<p>
+							Data are being generated at an unprecedented rate in the IoT era across various applications. 
+							How to process the Big Data in a timely manner is a major obstacle we are facing nowadays.
+							The growing diversity and heterogeneity of the hardware platform just added another layer of difficulty on top of a challenging problem. 
+							Even though heterogeneous platform such a GPUs, Xeon Phis, and FPGAs, has been widely adopted. 
+							However, how to effectively and efficiently utilize different hardware accelerators together to serve one single application remains a challenge for heterogeneous computing researchers. 
+						</p>
+						<p>
+							HC-SDA 2019 seeks original unpublished research on algorithms, models, applications and tools for heterogeneous computing to accelerate the performance,
+							to improve energy efficiency, and to enhance reliability of heterogeneous platforms from edge to cloud and in between. 
+							We are particularly interested in heterogeneous computing research employing two or more different types of hardware accelerators.
+						</p>
 						<h3>The topics to be covered include but are not limited to:</h3>
 						<ul>
-							<li>	Innovative architecture and system design for autonomous devices.</li>
-							<li>	Middleware and algorithms for performance optimization of autonomous devices.</li>
-							<li>	Run-time scheduling and management for autonomous devices.</li>
-							<li>	Power reduction and energy optimization in autonomous devices.</li>
-							<li>	Security and reliability of autonomous devices.</li>
-							<li>	Network-on-Chip and communication for autonomous devices.</li>
-							<li>	Fault-tolerant architecture and system design and design for testability.</li>
-							<li>	Design tools and optimizations techniques for autonomous devic.</li>							
+							<li>	Microarchitecture design on heterogeneous processor/system combined with emerging memory/storage system (PCM, SSD, etc.)</li>
+							<li>	Heterogeneous parallel programming paradigms and models.</li>
+							<li>	Energy efficient parallel accelerating models for heterogeneous platforms.</li>
+							<li>	Parallel algorithms for heterogeneous and/or hierarchical systems, including many-cores and hardware accelerators (FPGAs, GPUs, Xeon Phis,etc.)</li>
+							<li>	Heterogeneous computation supports for autonomous vehicle driving, or other applications using artificial intelligent algorithms (e.g. images processing, features recognition, etc.)</li>
+							<li>	Heterogeneous computing in large-scale datacenter.</li>
+							<li>	Software engineering implementation on heterogeneous computing. </li>
+							<li>	Multiple objectives optimization on heterogeneous platforms.</li>
+							<li>	Task scheduling algorithms on heterogeneous computation, cloud and datacenter platforms.</li>
+							<li>	Experience of porting parallel software from supercomputers to heterogeneous platforms.</li>
+							<li>	Fault tolerance of parallel computations on heterogeneous platform.</li>							
 						</ul>
 					</div>
 				</div>
@@ -94,13 +86,13 @@
 			<section id="submitGuide" class="submitGuide">
 				<div class="container">
 					<div class="row col-lg-12 col-md-12 col-sm-12 col-xs-12">
-						<h2>Submission</h2>
+						<h2>Guidelines</h2>
 						<p>
 							Submission Guidelines: Interested authors are encouraged to submit unpublished works (up to 6 pages) following <a href="download/Conference-template-A4.doc" download="Conference-template-A4.doc" style='color:#2A8AD8;'> the IEEE conference paper format</a>) by the easy-chair system. 
 							
 						</p>
 						<p>							
-							The regular submission is <span style='color:red;'> extended by Jan. 26th, 2019 </span>,
+							The regular submission is  <span style='color:red; text-decoration:line-through;'><span style='color:black;'>Jan. 4th, 2019</span></span><span style='color:red;'> extended by Jan. 26th, 2019 </span>,
 
 							and the notification date is <span>Feb. 5th, 2019</span> , 
 							Camera version submission is <span>Feb. 8th, 2019.</span>
@@ -108,7 +100,7 @@
 						</p>
 						<h3>Important Dates:</h3>
 						<ul>							
-							<li>Regular Paper Submission: Jan. 26th, 2019 </li>
+							<li>Regular Paper Submission: <span style='color:red; text-decoration:line-through;'><span style='color:black;'>Jan. 4th, 2019</span></span><span style='color:red;'> extended by Jan. 26th, 2019 </span></li>
 							<li>Acceptance Notification: February 5th, 2019</li>
 							<li>Camera Ready Submission: February 8th, 2019</li>
 							<li>Workshop:  February 16th, 2019  (1:00pm - 5:30pm)</li>
@@ -116,9 +108,9 @@
 						<h3>
 							Submission Link:  <a href="https://easychair.org/conferences/?conf=hcsda2019" target="_blank">https://easychair.org/conferences/?conf=hcsda2019</a>							
 						</h3>
-						<!--<h3 class="submit_link">
+						<h3 class="submit_link">
 							<a href="https://easychair.org/conferences/?conf=hcsda2019" target="_blank">SUBMIT NOW</a>
-						</h3>-->
+						</h3>
 						
 					</div>
 				</div>				
@@ -130,20 +122,43 @@
 						<h2>Committee</h2>
 						<h3>General Chairs:</h3>
 						<ul>
-							<li>Yang Hu ,University of Texas at Dallas, USA, Email: Yang.Hu4@utdallas.edu</li>
-							<li>***
-							<li>***
+							<li>Songwen Pei ,University of Shanghai for Science and Technology, China, Email: swpei@usst.edu.cn</li>
+							<li>Chen Liu ,Clarkson University, USA, Email: cliu@clarkson.edu</li>
+							<li>Neal N. Xiong, Northeastern State University, USA</li>
 						</ul>
 						<h3>Steering Committee:</h3>
 						<ul>
-							<li>Yang Hu ,University of Texas at Dallas, USA</li>
-							<li>**********************</li>
-							<li>**********************</li>		
+							<li>Jean-Luc Gaudiot, University of California, Irvine</li>
+							<li>Laurence T. Yang, St. Francis Xavier University</li>
+							<li>Kuan-Ching Li, Providence University</li>		
 						</ul>																		
 						<h3>Program Committee:</h3>
 						<ul>
-							<li>Yang Hu ,University of Texas at Dallas, USA</li>
-
+							<li>Christophe Bobda, University of Arkansas, USA</li>
+							<li>Yu Chen, State University of New York - Binghamton, USA</li>
+							<li>Yuanqing Cheng, Beihang University, China</li>
+							<li>Alfredo Goldman, São Paulo University, Brazil</li>
+							<li>Gaoqi He, East China Normal University, China</li>
+							<li>Liang He, PerceptIn and UNC, USA</li>
+							<li>Libo Huang, National University of Defense Technology, China</li>
+							<li>Miaoqing Huang, University of Arkansas, USA</li>
+							<li>Li Jiang, Shanghai Jiao Tong University, China</li>							
+							<li>Linhua Jiang, University of Shanghai for Science and Technology, China</li>
+							<li>Zhanpeng Jin, University of Buffalo, USA</li>
+							<li>James E. Stine, Jr., Oklahoma State University, USA</li>
+							<li>Myoung-Seo Kim, SK Hynix, Korea</li>							
+							<li>Tao Li, Nankai University, China</li>
+							<li>Haikun, Liu, Huazhong University of Science and Technology, China</li>
+							<li>Praveen Rao, University of Missouri-Kansas City, USA</li>
+							<li>Danda B. Rawat , Howard University, USA</li>
+							<li>Won Woo Ro, Yonsei University, Korea</li>
+							<li>Jie Tang, South China University of Technology, China</li>
+							<li>Glen Tian, Queensland University of Technology, Australia</li>							
+							<li>Yu Wang, Tsinghua University, China</li>
+							<li>Xiaochun Ye, Institute of Computing Technology, Chinese Academy of Sciences, China</li>
+							<li>Qiaoyan Yu, University of New Hampshire, USA</li>
+							<li>Xiang Yu, PONY.AI, USA</li>
+							<li>Stéphane Zuckerman, Université de Cergy-Pontoise, France</li>
 						
 						</ul>
 					</div>
@@ -175,18 +190,22 @@
 					<div class="row col-lg-12 col-md-12 col-sm-12 col-xs-12">
 						<div class="contact-left col-lg-6 col-md-6 col-sm-6 col-xs-6">
 							<p>
-								<span>Email：</span> Yang.Hu4@udallas.edu
+								<span>Email：</span>swpei@usst.edu.cn
 								<br />
-								<span style="color: #fff;">Email：</span>*******@******.edu
+								<span style="color: #fff;">Email：</span>cliu@clarkson.edu
 							</p>
 							<p>
 							</p>
-							<p class="copyright">COPYRIGHT © **** 2019</p>							
+							<p class="copyright">COPYRIGHT © HC-SDA 2019</p>							
 						</div>
 						<div class="contact-right col-lg-6 col-md-6 col-sm-6 col-xs-6">
 							<div class="labImg">
-								<img src="img/pearl.png" />
-								<p>Pervasive and Emerging Architecture Lab (PEARL)</p>
+								<img src="img/capal.jpg" />
+								<p>CAPAL：Computer Architecture and Parallel Acceleration Lab</p>
+							</div>
+							<div class="labImg">
+								<img src="img/qr2.jpg" />
+								<p>Computer Architecture and Microprocessor Engineering Lab</p>
 							</div>
 						</div>						
 					</div>
