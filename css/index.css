@@ -45,8 +45,8 @@ nav>ul>li{
 	/*line-height: 5em;*/
 	line-height: 5em;
 	width: 30%;
-	/*text-align: center;*/
-	text-align: justify;
+	text-align: center;
+	/*text-align: justify;*/
 }
 nav>ul>li>a{
 	font-size: 20px;
