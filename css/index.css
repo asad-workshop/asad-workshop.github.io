@@ -65,7 +65,7 @@ nav>ul>li>a:hover{
 }
 .title {
     margin: 0;
-    padding: 7em 0 3.0625em;
+    /*padding: 7em 0 3.0625em;*/
     /*box-shadow: 0 0.375em #262C35;*/
     position: relative;
     /*background: #2A8AD8;*/
