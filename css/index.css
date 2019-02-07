@@ -137,6 +137,7 @@ section ul li{
 	line-height: 28px
 }
 /*call for papers*/
+.overview h2
 .callforpaper h2,
 .submitGuide h2,
 .committee h2,
@@ -146,6 +147,7 @@ section ul li{
 	text-align: center;
 	font-weight: bold;
 }
+.overview h2
 .callforpaper p,
 .submitGuide p,
 .travelReg p{
