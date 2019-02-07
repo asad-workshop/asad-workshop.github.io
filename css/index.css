@@ -131,8 +131,7 @@ nav>ul>li>a:hover{
 .main section{
 	/*padding-top:70px;*/
 	padding-top:50px;
-	/*font-family: "微软雅黑";*/
-	font-family: "Times New Roman";
+	font-family: "微软雅黑";
 }
 section ul li{
 	line-height: 28px
