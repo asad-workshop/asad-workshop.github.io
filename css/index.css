@@ -1,6 +1,6 @@
 .header-wrap{
 	width: 100%;
-	padding: 0.2em 0;
+	/*padding: 0.2em 0;*/
 	position: fixed;
 	background: hsla(240,17%,99%,0.97);
     	border-bottom: 0.0625em solid #fff;
