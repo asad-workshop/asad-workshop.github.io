@@ -107,8 +107,8 @@ nav>ul>li>a:hover{
     color: #000;
     font-size: 1.215em;
     text-align: center;
-    background-color:#FFF;
-    text-shadow: 0.125em 0.125em 0 hsla(0,0%,0%,0.10);
+    /*background-color:#FFF;*/
+    /*text-shadow: 0.125em 0.125em 0 hsla(0,0%,0%,0.10);*/
 }
 .title.intro h2 a:hover{
 	text-decoration: none;
