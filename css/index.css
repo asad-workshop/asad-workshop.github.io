@@ -1,6 +1,6 @@
 .header-wrap{
 	width: 100%;
-	padding: 0em 0;
+	padding: 0 0;
 	position: fixed;
 	background: hsla(240,17%,99%,0.97);
     	/*border-bottom: 0.0625em solid #fff;*/
@@ -16,7 +16,8 @@ header{
 }
 header>div,nav>ul>li{
 	display: inline-block;
-	float: left;
+	/*float: left;*/
+	
 }
 
 #img-group {  
