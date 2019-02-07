@@ -104,7 +104,7 @@ nav>ul>li>a:hover{
     margin-top: -0.0625em;
 }*/
 .title.intro h1, .title.intro p,.title.intro h2 {
-    width: 80%;
+    width: 100%;
     margin: 1.25em auto 0;
     color: #000;
     font-size: 1.215em;
