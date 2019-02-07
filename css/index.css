@@ -3,7 +3,7 @@
 	padding: 0.2em 0;
 	position: fixed;
 	background: hsla(240,17%,99%,0.97);
-   	border-bottom: 0.0625em solid #fff;
+    border-bottom: 0.0625em solid #fff;
 	box-shadow: 0 0.275em 0 hsla(0,0%,0%,0.03);
 	z-index: 100;
 }
@@ -17,7 +17,7 @@ header>div,nav>ul>li{
 	display: inline-block;
 	float: left;
 }
-/*#logo{
+#logo{
 	width: 20%;
 }
 #logo img{
@@ -30,23 +30,19 @@ header>div,nav>ul>li{
     text-align: center;
     float: left;
     border-bottom: none;
-}*/
+}
 nav{
 	width: 80%;
 	height: 5em;
-	/*height: 40%;*/
 	float: right;
 }
 nav>ul{
 	overflow: hidden;
-	/*overflow: auto;*/
 }
 nav>ul>li{
-	/*line-height: 5em;*/
 	line-height: 5em;
-	width: 30%;
+	width: 20%;
 	text-align: center;
-	/*text-align: justify;*/
 }
 nav>ul>li>a{
 	font-size: 20px;
@@ -124,7 +120,6 @@ section ul li{
 	line-height: 28px
 }
 /*call for papers*/
-.overview h2,
 .callforpaper h2,
 .submitGuide h2,
 .committee h2,
@@ -134,7 +129,6 @@ section ul li{
 	text-align: center;
 	font-weight: bold;
 }
-.overview p,
 .callforpaper p,
 .submitGuide p,
 .travelReg p{
