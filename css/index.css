@@ -68,14 +68,14 @@ nav>ul>li>a:hover{
     padding: 7em 0 3.0625em;
     /*box-shadow: 0 0.375em #262C35;*/
     position: relative;
-    background: #2A8AD8;
+    /*background: #2A8AD8;
     background: -moz-linear-gradient(top, #2b5cd6 0%,#2A8AD8 100%);
     background: -webkit-gradient(linear,left top,left bottom,color-stop(0%,#2b5cd6),color-stop(100%,#2A8AD8));
     background: -webkit-linear-gradient(top, #2b5cd6 0%,#2A8AD8 100%);
     background: -o-linear-gradient(top, #2b5cd6 0%,#2A8AD8 100%);
     background: -ms-linear-gradient(top, #2b5cd6 0%,#2A8AD8 100%);
     background: linear-gradient(to bottom, #2b5cd6 0%,#2A8AD8 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2b5cd6',endColorstr='#2A8AD8',GradientType=0 );
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2b5cd6',endColorstr='#2A8AD8',GradientType=0 );*/
 }
 /*
 .title:before {
