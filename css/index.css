@@ -123,7 +123,6 @@ section ul li{
 	line-height: 28px
 }
 /*call for papers*/
-.home h2
 .overview h2,
 .callforpaper h2,
 .submitGuide h2,
@@ -134,7 +133,6 @@ section ul li{
 	text-align: center;
 	font-weight: bold;
 }
-.home p,
 .overview p,
 .callforpaper p,
 .submitGuide p,
