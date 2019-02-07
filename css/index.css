@@ -34,7 +34,7 @@ header>div,nav>ul>li{
 nav{
 	width: 80%;
 	/*height: 5em;*/
-	height: 60%;
+	height: 40%;
 	/*float: right;*/
 }
 nav>ul{
@@ -43,9 +43,10 @@ nav>ul{
 }
 nav>ul>li{
 	/*line-height: 5em;*/
-	line-height: 3em;
-	width: 20%;
-	text-align: center;
+	line-height: 5em;
+	/*width: 20%;*/
+	/*text-align: center;*/
+	text-align: justify;
 }
 nav>ul>li>a{
 	font-size: 20px;
