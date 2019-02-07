@@ -15,7 +15,7 @@ header{
 	overflow: hidden;
 }
 header>div,nav>ul>li{
-	display: inline-block;
+	/*display: inline-block;*/
 	float: left;
 }
 
