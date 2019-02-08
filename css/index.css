@@ -155,9 +155,9 @@ nav>ul>li>a:hover{
 	/*padding-top:70px;*/
 	padding:50px;
 	/*font-family: "微软雅黑";*/
-	font-size: 1.5em;
-	/*font-family:"Roboto Slab;*/
-	font-family:"time new roman";
+	font-size: 1.0em;
+	font-family:"Roboto Slab";
+	/*font-family:"time new roman"*/;
 }
 section ul li{
 	line-height: 200%;
