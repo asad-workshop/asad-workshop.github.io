@@ -158,6 +158,7 @@ nav>ul>li>a:hover{
 	font-size: 1.2em;
 	color: #000;
 	font-family:"Helvetica";
+	line-height: 200%;
 	/*font-family:"time new roman"*/;
 }
 section ul li{
