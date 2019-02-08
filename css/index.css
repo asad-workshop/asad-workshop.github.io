@@ -19,7 +19,7 @@ header>div,nav>ul>li{
 }*/
 .header-wrap{
 	width: 100%;
-	height: 200;
+	height: 100px
 	padding: 0 0;
 	position: fixed; 
 	/*position: relative; *//*nav moves when scrolling down and each section aligns well with navigation column*/
