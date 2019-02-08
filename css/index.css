@@ -154,9 +154,9 @@ nav>ul>li>a:hover{
 .main section{
 	/*padding-top:70px;*/
 	padding:50px;
-	font-family: "微软雅黑";
+	/*font-family: "微软雅黑";*/
 	font-size: 1.0em;
-	/*font-family:"Roboto Slab";*/
+	font-family:"Helvetica";
 	/*font-family:"time new roman"*/;
 }
 section ul li{
