@@ -72,7 +72,7 @@ nav>ul{
 	/*float: right;*/
 }
 nav>ul>li{
-	line-height: 100%;
+	line-height: 1.0;
 	/*width: 20%;*/
 	width: 15%;
 	text-align: right;
@@ -157,7 +157,8 @@ nav>ul>li>a:hover{
 	font-family:"Roboto Slab;"
 }
 section ul li{
-	line-height: 28px
+	/*line-height: 28px*/
+	line-height: 1.5;
 }
 /*call for papers*/
 .overview h2
