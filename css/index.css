@@ -72,7 +72,7 @@ nav>ul{
 	/*float: right;*/
 }
 nav>ul>li{
-	line-height: 1.0;
+	line-height: 1.5;
 	/*width: 20%;*/
 	width: 15%;
 	text-align: right;
@@ -159,6 +159,7 @@ nav>ul>li>a:hover{
 section ul li{
 	/*line-height: 28px*/
 	line-height: 1.5;
+	font-size: 1.5em;"
 }
 /*call for papers*/
 .overview h2
