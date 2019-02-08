@@ -47,6 +47,7 @@ nav{
 nav>ul{
 	width: 100%;
 	overflow: hidden;
+	float: right;
 }
 nav>ul>li{
 	line-height: 5em;
