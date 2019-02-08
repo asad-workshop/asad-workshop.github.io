@@ -225,37 +225,37 @@ section ul li{
 .chairs ul li span{
 	font-weight: 600;
 }
-/*contact*/
-.contact {
+/*organizer*/
+.organizer {
 	
 	background: #fff;
 	padding-top: 10px;
 }
-.contact .contact-left{
+.organizer .organizer-left{
 	padding-top:30px ;
 }
-.contact .contact-left p {
+.organizer .organizer-left p {
 	margin: 10px -15px;		
 }
-.contact .contact-left p span,
-.contact .contact-left p{
+.organizer .organizer-left p span,
+.organizer .organizer-left p{
 	font-weight:600 ;
 }
 
-.contact .contact-left p.copyright {
+.organizer .organizer p.copyright {
 	font-weight: 600;
 }
-.contact .contact-right{
+.organizer .organizer-right{
 	text-align: center;
 	font-weight: bold;
 }
-.contact .contact-right .labImg{
+.organizer .organizer-right .labImg{
 	width: 50%;
 	text-align: center;
 	display: inline-block;
 	float: right;
 }
-.contact .contact-right img{
+.organizer .organizer-right img{
 	width: 100px;
 }
 @media only screen and (max-width: 790px) {
