@@ -110,7 +110,7 @@ nav>ul>li>a:hover{
 }*/
 .title.intro h1, .title.intro p,.title.intro h2 {
     width: 100%;
-    margin: 1.25em auto 0;
+    margin: 0em auto 0;
     color: #000;
     font-size: 1.215em;
     text-align: center;
