@@ -46,7 +46,8 @@ nav{
 }
 nav>ul{
 	width: 100%;
-	overflow: hidden;
+	/*overflow: hidden;*/
+	height: 5em;
 	float: right;
 }
 nav>ul>li{
