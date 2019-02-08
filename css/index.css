@@ -36,7 +36,7 @@ header{
 }
 header>div,nav>ul>li{
 	display: inline-block;
-	float: right;
+	float: left;
 	
 }
 
