@@ -155,7 +155,8 @@ nav>ul>li>a:hover{
 	/*padding-top:70px;*/
 	padding:50px;
 	/*font-family: "微软雅黑";*/
-	font-size: 1.0em;
+	font-size: 1.2em;
+	color: #000;
 	font-family:"Helvetica";
 	/*font-family:"time new roman"*/;
 }
@@ -225,6 +226,7 @@ section ul li{
 }
 /*contact*/
 .contact {
+	
 	background: #fff;
 	padding-top: 10px;
 }
@@ -250,7 +252,7 @@ section ul li{
 	width: 50%;
 	text-align: center;
 	display: inline-block;
-	float: left;
+	float: right;
 }
 .contact .contact-right img{
 	width: 100px;
