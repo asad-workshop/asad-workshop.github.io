@@ -181,7 +181,7 @@ section ul li{
 .callforpaper p,
 .submitGuide p,
 .travelReg p{
-	text-indent: 2em;
+	/*text-indent: 2em;*/
 	color: black;
 	/*line-height: 28px;*/
 	line-height: 32px;
