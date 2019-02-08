@@ -35,7 +35,7 @@ header{
 }
 header>div,nav>ul>li{
 	display: inline-block;
-	/*float: left;*/
+	float: left;
 	
 }
 
@@ -66,9 +66,9 @@ nav{
 	margin: 0;
 }
 nav>ul{
-	width: 100%;
+	/*width: 100%;*/
 	overflow: hidden;
-	float: right;
+	/*float: right;*/
 }
 nav>ul>li{
 	line-height: 3em;
