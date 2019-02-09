@@ -283,8 +283,7 @@ section ul li{
 .col-sm-12.navsmall {
 	display: none;	
 }*/
-
-/*
+	
 @media screen and (min-width:1200px){
     #page{ width: 1100px; }#content,.div1{width: 730px;}#secondary{width:310px}
 }
@@ -300,6 +299,3 @@ section ul li{
 @media only screen and (max-width: 479px) {
     #page{ width: 300px; }#content,.div1{width: 300px;}#secondary{display:none}#access{width: 330px;} #access a {padding-right:10px;padding-left:10px}#access a img{display:none}#rss{display:none}#branding #s{display:none}#access ul ul a{width:100px}
 }
-	
-	
-	*/
