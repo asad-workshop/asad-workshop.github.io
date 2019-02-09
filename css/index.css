@@ -171,6 +171,7 @@ section ul li{
 /*call for papers*/
 .overview h2
 .callforpaper h2,
+.schedule h2,
 .submitGuide h2,
 .committee h2,
 .travelReg h2{
@@ -181,6 +182,7 @@ section ul li{
 }
 .overview h2
 .callforpaper p,
+.schedule p,
 .submitGuide p,
 .travelReg p{
 	/*text-indent: 2em;*/
