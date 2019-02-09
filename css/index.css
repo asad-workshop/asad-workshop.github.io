@@ -261,7 +261,7 @@ section ul li{
 .organizer .organizer-right img{
 	width: 100px;
 }
-@media only screen and (max-width: 790px) {
+/*@media only screen and (max-width: 790px) {
 	.header-wrap #logo{
 		display: none;
 	}
@@ -282,7 +282,7 @@ section ul li{
 }
 .col-sm-12.navsmall {
 	display: none;	
-}
+}*/
 
 /*
 @media screen and (min-width:1200px){
